@@ -1,4 +1,5 @@
 
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -160,7 +161,7 @@ public class XifratFitxers {
 				if (obuf != null)
 					out.write(obuf);
 			}
-
+//awdjiaowdjaiwdo
 			
 
 		} catch (Exception e) {
